@@ -11,4 +11,9 @@ export class HomePage {
 
   }
 
+  sayhi(){
+    alert('reet a bit n that');
+    console.error('error a bit large style');
+  }
+
 }
